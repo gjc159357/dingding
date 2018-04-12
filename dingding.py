@@ -7,15 +7,15 @@ import json
 
 import requests
 
-# url = 'https://oapi.dingtalk.com/robot/send?access_token=952ce8bf9eeb912d52e892780466eb41190bb0b99defe19bf7ed1938de82facf'
-token = '952ce8bf9eeb912d52e892780466eb41190bb0b99defe19bf7ed1938de82facf'
+# url = 'https://oapi.dingtalk.com/robot/send?access_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # '''
 # curl Webhook -H 'Content-Type: application/json' \
 #    -d '{"msgtype": "text",
 #     "text": {
 #         "content": {
-#             "username": "yxdown",
+#             "username": "test",
 #             "password": "test123",
 #                     }
 #             }
