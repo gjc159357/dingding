@@ -72,4 +72,4 @@ class Dingding(object):
             print("success!")
 
 a = Dingding(token)
-#a.send_text(text='username:yxdown\npasswd:test', at_mobiles=[], at_all=False)
+#a.send_text(text='username:testuser\npasswd:test', at_mobiles=[], at_all=False)
